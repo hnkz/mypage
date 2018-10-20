@@ -54,3 +54,4 @@ wasm-pack publish
 ```
 # hnkz.github.io
 # mypage
+# mypage
