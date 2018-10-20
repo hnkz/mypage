@@ -52,6 +52,3 @@ wasm-pack test --headless --firefox
 ```
 wasm-pack publish
 ```
-# hnkz.github.io
-# mypage
-# mypage
